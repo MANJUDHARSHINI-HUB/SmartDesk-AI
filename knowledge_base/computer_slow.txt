@@ -1,0 +1,8 @@
+Computer Performance Troubleshooting
+
+1. Close unnecessary applications and browser tabs.
+2. Restart the computer.
+3. Check whether the computer has sufficient storage space.
+4. Close applications that are using excessive system resources.
+5. Install required system updates if available.
+6. Contact IT support if the computer remains slow.

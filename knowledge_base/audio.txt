@@ -1,0 +1,8 @@
+Audio Troubleshooting
+
+1. Check that the device volume is not muted.
+2. Check that the correct audio output device is selected.
+3. Disconnect and reconnect headphones or speakers.
+4. Restart the audio application.
+5. Restart the computer if the problem continues.
+6. Contact IT support if the audio problem is not resolved.

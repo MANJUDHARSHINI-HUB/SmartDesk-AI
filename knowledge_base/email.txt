@@ -1,0 +1,8 @@
+Email Troubleshooting
+
+1. Check your internet connection.
+2. Verify your email address and password.
+3. Refresh the mailbox.
+4. Restart the email application.
+5. Check whether the mailbox storage is full.
+6. Contact IT support if the issue continues.

@@ -1,0 +1,8 @@
+Printer Troubleshooting
+
+1. Check that the printer is powered on.
+2. Check the USB or network connection.
+3. Make sure paper is available.
+4. Check ink or toner levels.
+5. Clear any paper jam.
+6. Restart the printer and try printing again.

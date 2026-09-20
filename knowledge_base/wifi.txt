@@ -1,0 +1,8 @@
+Wi-Fi Troubleshooting
+
+1. Check that Wi-Fi is enabled on the device.
+2. Make sure the device is connected to the correct network.
+3. Restart the Wi-Fi router.
+4. Forget the network and reconnect using the correct password.
+5. Restart the computer if the problem continues.
+6. Contact IT support if the issue is not resolved.

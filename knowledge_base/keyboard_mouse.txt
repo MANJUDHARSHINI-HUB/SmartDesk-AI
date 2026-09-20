@@ -1,0 +1,8 @@
+Keyboard and Mouse Troubleshooting
+
+1. Check that the keyboard or mouse is properly connected.
+2. For wireless devices, check the battery level.
+3. Reconnect the USB device or wireless receiver.
+4. Try another USB port if available.
+5. Restart the computer.
+6. Contact IT support if the device still does not work.

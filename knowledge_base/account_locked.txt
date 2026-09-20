@@ -1,0 +1,7 @@
+Account Locked Troubleshooting
+
+1. Confirm that you are using the correct username.
+2. Avoid repeatedly entering an incorrect password.
+3. Wait for the organization's account lockout period if applicable.
+4. Use the organization's password recovery or account unlock process.
+5. Contact IT support if you cannot unlock the account.

@@ -1,0 +1,8 @@
+VPN Troubleshooting
+
+1. Check your internet connection.
+2. Verify your VPN username and password.
+3. Restart the VPN application.
+4. Disconnect and reconnect to the VPN.
+5. Restart the computer if necessary.
+6. Contact IT support if the VPN continues to fail.
